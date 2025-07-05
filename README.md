@@ -34,3 +34,37 @@ Wireframes often indicate basic interactive elements like dropdowns, modal windo
 **Example**: A login wireframe may show a username and password input field along with a “Log In” button, without actual design styling.
 
 ---
+
+## Types of Wireframes
+
+Wireframes can be categorized into two main types based on their level of detail: **Low-Fidelity** and **High-Fidelity**.
+
+### Low-Fidelity Wireframes
+These are basic, simplified sketches that focus on layout and structure without including detailed design elements. They are often created quickly with minimal styling and are used in the early stages of the design process to explore concepts and get initial feedback.
+
+**Characteristics:**
+- Simple shapes (boxes, lines, placeholders)
+- Grayscale (usually black, white, or gray)
+- No typography or images
+- Emphasis on structure, not aesthetics
+
+**When to Use:**
+- Brainstorming and ideation
+- Initial discussions with stakeholders
+- Rapid prototyping and feedback loops
+
+### High-Fidelity Wireframes
+High-fidelity wireframes are more detailed and polished representations of a design. They include accurate spacing, typography, images, and sometimes interactivity. These wireframes are closer to the final design and are used later in the design process.
+
+**Characteristics:**
+- Detailed design elements
+- Actual text and images
+- Color schemes and branding
+- May include clickable prototypes
+
+**When to Use:**
+- Usability testing
+- Client presentations
+- Developer handoff
+
+---
