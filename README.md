@@ -128,3 +128,29 @@ Wireframes enable faster development cycles by providing a predefined structure.
 
 ---
 
+## Wireframing in Practice
+
+### Real-World Scenario
+
+A startup was developing a mobile app for booking fitness classes. During the wireframing phase, the design team created low-fidelity wireframes for key screens such as the class schedule, booking page, and confirmation screen.
+
+While reviewing the wireframes with stakeholders and potential users, they discovered a major usability issue: the booking flow required users to navigate through four different screens to confirm a single class booking. Test participants found the process slow and confusing.
+
+### Resolution
+
+The team revised the wireframes to simplify the booking process. They introduced a condensed layout where users could:
+- View available classes,
+- Select a time,
+- And confirm their booking — all within a single screen.
+
+Interactive wireframes were then created in Figma and tested again. This time, users completed bookings faster and with greater satisfaction.
+
+### Impact on the Final Product
+
+Because these usability issues were identified and resolved early in the wireframing stage:
+- The development team avoided costly rework later in the project.
+- The final app launched with a streamlined booking process that boosted user engagement and received positive reviews.
+- The company saved time and money while delivering a better user experience.
+
+---
+
